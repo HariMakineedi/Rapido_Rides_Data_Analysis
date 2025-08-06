@@ -12,7 +12,7 @@ To analyze 100K+ Rapido ride records and provide business intelligence on **book
 
 ## 📊 Dashboard Preview
 
-![Rapido Dashboard](https://github.com/HariMakineedi/Rapido-Bookings-Data-Analysis/blob/main/Rapido-Dashboard.png)
+![Rapido Dashboard](https://github.com/HariMakineedi/Rapido_Rides_Data_Analysis/blob/main/Screenshot%202025-08-06%20123120.png)
 
 ---
 
