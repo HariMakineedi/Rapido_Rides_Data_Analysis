@@ -76,9 +76,9 @@ To analyze 100K+ Rapido ride records and provide business intelligence on **book
 
 ## 🤝 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/harimakineedi)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hari-makineedi/)
 - 📧 Email: harimakineedi@email.com
-- 📱 Phone: +91-9876543210
+- 📱 Phone: +91- 9133792875
 
 ---
 
