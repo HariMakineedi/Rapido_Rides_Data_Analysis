@@ -82,4 +82,4 @@ To analyze 100K+ Rapido ride records and provide business intelligence on **book
 
 ---
 
-> _“Without data, you’re just another person with an opinion.” – W. Edwards Deming_
+
